@@ -12,3 +12,7 @@ tcchian;ssnasnf.ahsf.has.fgh.aksfjh.k
 
 
 and even more changes...
+
+===========================
+
+Upodate to readme on the serveronly branch
